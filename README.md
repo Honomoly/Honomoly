@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! AI Back-End를 공부해나가는 개발자 지망생입니다! 👋
 
 <!--
 **Honomoly/Honomoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
